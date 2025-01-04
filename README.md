@@ -12,7 +12,7 @@
 
 # ✨ Batch 27 Group 1 |
 
-Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built a `HR Analytics Dashboard` for my `Milestone 4`. Using `Power BI and it's tools`.
+Hello 👋, I'm <strong>Shubh Jalui</strong>. In this repository I built an `HR Analytics Dashboard` for my `Milestone 4`. Using `Power BI and it's tools`.
 
 <!-- my social media links -->
 
