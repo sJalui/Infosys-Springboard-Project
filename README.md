@@ -7,8 +7,8 @@
 # ✨ Infosys Springboard Milestone 4 |
 # ✨ HR Analytics Dashboard | 
 
-![Page1](https://github.com/sJalui/Infosys-Springboard-Project/blob/main/Images/pg1.png?raw=true)
-![Page2](https://github.com/sJalui/Infosys-Springboard-Project/blob/main/Images/pg2.png?raw=true)
+![Page1](https://github.com/sJalui/Infosys-Springboard-Project/blob/main/Images/Attrition%20Data.png?raw=true)
+![Page2](https://github.com/sJalui/Infosys-Springboard-Project/blob/main/Images/Attrition%20Data%202.png?raw=true)
 
 # ✨ Batch 27 Group 1 |
 
